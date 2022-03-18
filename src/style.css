@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar--primary { 
+  background-color: #F55A5A;
+  text-align: center;
+  color: #fff;
+  font-family: 'Inter', 'sans-serif';
+  font-size: 14px;
+  padding: 1%
+}
+
+.globe-img {
+  padding-right: 1%;
+  width: 4%;
+  vertical-align: middle;
+}
+
+h3 {
+  display: inline-block;
+}
+
+.jornal {
+  margin-top: 2%;
+  width: 550px;
+  height: 704;
+}
+
+.feature--img{
+  float: left;
+  /* padding-top: 1%; */
+  margin: 2% 2% 2% 2%;
+  width: 126px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.placeholder-img{
+  width: 10.24px;
+  margin-right: 3px;
+}
+
+.location--name {
+ color: #918E9B;
+ font-size: 10px; 
+ letter-spacing: 0.17em;
+ margin-right: 10px;
+}
+
+.jornal--info {
+  display: block;
+  padding: 4.5%;
+  margin-right: 50px;
+}
+
+.jornal--info > a {
+  color: #918E9B;
+  font-size: 10px;
+}
+
+.title--name {
+  display: block;
+  font-family: Inter, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.dates--available {
+ font-size: 10px;
+ font-weight: bold;
+ margin: 1%;
+ padding: 1%;
+ display: block
+}
+
+.feature--description {
+ font-size: 10px; 
+ color: #918E9B;
+}
+
+hr {
+  border-top: 1px solid #f5f3f0;
+}
